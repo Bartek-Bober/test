@@ -1,10 +1,5 @@
-# Zmienne środowiskowe
 .env
-
-# Wirtualne środowisko Pythona
-venv/
-env/
-
-# Pamięć podręczna Pythona
 __pycache__/
 *.pyc
+venv/
+alembic.ini
